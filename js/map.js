@@ -8,7 +8,7 @@ $(window).resize(function () {
 $(function() {
 
   SearchableMapLib.initialize({
-    filePath: 'data/2020-02-04_map_of_ca_hospitals_without_nci',
+    filePath: 'data/2020-02-04_map_of_ca_hospitals_without_nci.csv',
     fileType: 'csv',
     recordName: 'hospital',
     recordNamePlural: 'hospitals',
